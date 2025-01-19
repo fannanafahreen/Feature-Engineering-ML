@@ -1,2 +1,1 @@
-# Feature-Engineering-ML
-The project includes implementations for feature scaling, feature selection, and Principal Component Analysis (PCA).
+This project demonstrates the implementation of feature scaling, feature selection, and Principal Component Analysis (PCA) using Python. It leverages popular libraries such as NumPy, Pandas, and Matplotlib to preprocess data, select relevant features, and reduce dimensionality effectively. The code is designed to provide insights into the importance of these techniques in data preparation and visualization for machine learning tasks.
